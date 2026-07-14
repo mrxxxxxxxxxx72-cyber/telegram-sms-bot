@@ -1,7 +1,7 @@
 <?php
 
 // Get bot token and password from environment variables
-define("BOT_TOKEN", getenv("8690487459:AAGF1tdFOfGiCnq2XZ64r4VtK4qEkzEAXKg"));
+define("BOT_TOKEN", getenv("8690487459:AAEj-a0X2x2FfQPPUEpcCnMxrtdI-O0XIQg"));
 define("PASSWORD", getenv("F4KU"));
 
 // API Details
