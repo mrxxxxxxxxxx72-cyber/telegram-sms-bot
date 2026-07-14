@@ -2,7 +2,7 @@
 
 // Get bot token and password from environment variables
 define("BOT_TOKEN", getenv("8690487459:AAGF1tdFOfGiCnq2XZ64r4VtK4qEkzEAXKg"));
-define("PASSWORD", getenv("BOT_PASSWORD"));
+define("PASSWORD", getenv("F4KU"));
 
 // API Details
 define("API1_NAME", "015XXXXXXXX");
